@@ -1,0 +1,14 @@
+{ "name": "smartjulia/town",
+"version":"master",
+"repositories": [
+{
+"type" : "vcs",
+"url" : "https://github.com/smartjulia/town1"
+}
+],
+"autoload": {
+"psr-0": {
+"Townmy": "./"
+}
+}
+} 
